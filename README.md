@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yrtem4ik
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning Kotlin
+- 📫 You can reach me in Telegram https://t.me/yrtem4ik
